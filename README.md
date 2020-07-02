@@ -8,8 +8,17 @@ A testing  challenge to be solved as part of a screening process
 
 
 ## Challenge
-- You are to design test cases and a test tracking plan for the newly rolled out search and results features on [the site]((https://www.bunnings.com.au/))
-- Design test cases
+- You are to design test cases and a test tracking plan for the newly rolled out search and results features on [this site](https://www.bunnings.com.au/), the feature in question is outlined on [this screenshot](#front-page)
+- Identify and document your testing strategy and approach to testing this application in an Agile development environment
+- List down any assumptions and questions you have about the brief
+- Design and document test cases for this feature as it appears on [the site](https://www.bunnings.com.au/)
+- If you were going to apply test automation to this feature outline the approach and tools you will use _*Optional_
+- Write test automation scripts for your top 3 test cases _*Optional_
+
+
+## Screenshots
+#### Front Page
+![Front Page](/images/website-front-page.jpg "front page")
 
 
 ## Deliverables:
