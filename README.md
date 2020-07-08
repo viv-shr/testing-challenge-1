@@ -15,13 +15,13 @@ A testing  challenge to be solved as part of a screening process
 - If you were going to apply test automation to this feature outline the approach and tools you will use _*Optional_
 - Write test automation scripts for your top 3 test cases _*Optional_
 
+## Deliverables:
+- Spend as little or as much time as you like ⌚
+- The code you produce can be in any language ⭐
+- _*Optional_ If you complete the automation part of the challenge output of the efforts ❗ must be committed back into a Public Repo in Github and the URL shared back for review.
 
 ## Screenshots
 #### Front Page
 ![Front Page](/images/website-front-page.jpg "front page")
 
 
-## Deliverables:
-- Spend as little or as much time as you like ⌚
-- The code you produce can be in any language ⭐
-- The output of the efforts ❗ must be committed back into a Public Repo in Github and the URL shared back for review.
