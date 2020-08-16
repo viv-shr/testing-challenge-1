@@ -1,4 +1,4 @@
-# Testing Challenge 1
+# Testing Challenge 1 - Automation Test Analyst 
 A testing  challenge to be solved as part of a screening process
 
 ## Context
@@ -12,16 +12,16 @@ A testing  challenge to be solved as part of a screening process
 - Identify and document your testing strategy and approach to testing this application in an Agile development environment
 - List down any assumptions and questions you have about the brief
 - Design and document test cases for this feature as it appears on [the site](https://www.bunnings.com.au/)
-- If you were going to apply test automation to this feature outline the approach and tools you will use _*Optional_
-- Write test automation scripts for your top 3 test cases _*Optional_
+- Apply test automation to this feature outline the approach and tools you will use _
+- Write test automation scripts for your top 3 test cases   
 
+## Deliverables:
+- Spend as little or as much time as you like ⌚
+- The code you produce can be in any language ⭐
+- If you complete the automation part of the challenge output of the efforts ❗ must be committed back into a Public Repo in Github and the URL shared back for review.
 
 ## Screenshots
 #### Front Page
 ![Front Page](/images/website-front-page.jpg "front page")
 
 
-## Deliverables:
-- Spend as little or as much time as you like ⌚
-- The code you produce can be in any language ⭐
-- The output of the efforts ❗ must be committed back into a Public Repo in Github and the URL shared back for review. Proving your code works via unit testing is highly encouraged
